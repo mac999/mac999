@@ -1,2 +1,2 @@
 Welcome to my GitHub profile.
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mac999&show_icons=true&theme=gotham&hide_title=true&hide_rank=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac999&layout=compact&theme=tokyonight"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mac999&show_icons=true&theme=gotham&hide_title=true&hide_rank=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac999&layout=compact&theme=gotham"/><img src="https://github-profile-trophy.vercel.app/?username=mac999&theme=flat&column=6&margin-w=10&margin-h=15" />
