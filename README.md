@@ -1,2 +1,2 @@
 Welcome to my GitHub profile.
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mac999&show_icons=true&theme=gotham&hide_title=true&show_rank=false"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mac999&show_icons=true&theme=gotham&hide_title=true&hide_rank=true"/>
