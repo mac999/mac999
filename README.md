@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/mac999/count.svg)
 ![Followers](https://img.shields.io/github/followers/mac999?style=social)
 ![Total Stars](https://img.shields.io/github/stars/mac999?style=social)
 ![Joined](https://img.shields.io/badge/Joined-20XX-blue)
