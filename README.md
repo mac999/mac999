@@ -1,3 +1,8 @@
+![Visitor Count](https://profile-counter.glitch.me/mac999/count.svg)
+![Followers](https://img.shields.io/github/followers/mac999?style=social)
+![Total Stars](https://img.shields.io/github/stars/mac999?style=social)
+![Joined](https://img.shields.io/badge/Joined-20XX-blue)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac999&theme=solarized_dark)
 
 ![Metrics](https://metrics.lecoq.io/mac999?template=classic&base=header,activity,community,repositories,metadata)
